@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Thu Jul 06 11:53:10 CST 2017
+2.base=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+count=6
+0.file=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.set=NATIVE_RESOURCE
+1.file=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\TempCode\\scan_v1787-test\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libtiny-tools.so
+0.set=ANDROID_RESOURCE

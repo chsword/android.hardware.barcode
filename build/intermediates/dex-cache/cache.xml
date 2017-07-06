@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\TempCode\scan_v1787-test\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80d7f1b34e527d96c822c9014b32fb04dd7dfec7">
+        <dex dex="D:\TempCode\scan_v1787-test\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_339a55684cb36261968f01f1e4edfeef0dfa45a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempCode\scan_v1787-test\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41b5b845a3f9ee05153748531272b8c2e6604917">
+        <dex dex="D:\TempCode\scan_v1787-test\app\build\intermediates\pre-dexed\debug\instant-run_30b4e06d94fefec0753e1ad1869fcaae2240898e.jar" />
+    </item>
+
+</items>

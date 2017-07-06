@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\TempCode\scan_v1787-test\app\libs"><file name="armeabi/libtiny-tools.so" path="D:\TempCode\scan_v1787-test\app\libs\armeabi\libtiny-tools.so"/></source></dataSet><dataSet config="debug"><source path="D:\TempCode\scan_v1787-test\app\src\debug\jniLibs"/></dataSet></merger>

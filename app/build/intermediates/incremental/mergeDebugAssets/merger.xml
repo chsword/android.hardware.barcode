@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="D:\TempCode\scan_v1787-test\app\build\intermediates\exploded-aar\scan_v1787-test\android.hardware.barcode\unspecified\assets"/></dataSet><dataSet config="main"><source path="D:\TempCode\scan_v1787-test\app\src\main\assets"/><source path="D:\TempCode\scan_v1787-test\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\TempCode\scan_v1787-test\app\src\debug\assets"/></dataSet></merger>
